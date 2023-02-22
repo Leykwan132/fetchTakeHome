@@ -1,0 +1,21 @@
+tools
+The tools that I'm using is VSCode. VSCode is useful with extensions given and I have had some school projects built using VSCode on top of some useful extension.
+
+library
+csv library is used to read the csv. Sys library is used to read the system argument entered by the user.
+
+Why Python?
+I am pretty comfortable with Python since I have taken some classes related to Python and some Python coding for data visualization purpose.
+I chose Python because Python has some built-in data structure that could come handy when it comes to implementation.
+
+2. Advantages:
+The time complexity is nlogn because of the sorting and space complexity is constant since we are just creating 1 array and 1 dict.
+
+Disadvantages:
+The code might be little bit messy since a number of conditional statement is used. 
+
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+I did a full stack personal project from scratch, StalkYourLinkedin, from designing to deploying. It was my favourite because I designed it the way I wanted it to be, something that looks visually pleasing to me. 
+The most challenging part would be debugging some of the algorithm when it comes to utilizing nextJS and supaBase. I almost gave up when I was unable to find a solution on StackOverflow but eventually I solved multiple bugs by going
+through the documentation and connecting with the dev team of a product to get more insights. It was a fun and fruitful experience for me personally. 
